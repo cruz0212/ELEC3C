@@ -9,3 +9,4 @@
 
 [Activity 5](https://github.com/cruz0212/ELEC3C/blob/main/ELEC3C/Cruz_3C/project5HOUSING_TRAIN.ipynb) 
  
+[Activity  6](https://github.com/cruz0212/ELEC3C/blob/main/ELEC3C/Cruz_3C/Project_6_TitanicSurvavility_MachineLearning(1).ipynb) 
